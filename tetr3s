@@ -1,0 +1,37 @@
+#include <allegro.h>
+
+//funções
+void sair();
+					
+//vriaveis globais
+int sair ();
+int timer ();
+int girar ();
+int confere ();
+int control();
+int criarforma ();
+int apagarLinha ();
+ 
+//objetos
+truct partes (int x , y;) parte_a[4], parte_b[4],
+parte_aux;
+
+//variaveis globais
+ 
+//variaveis contantes
+const int col = 10, width =400
+const int lin = 20, height = 700
+const int wdt = 25, npart = 4
+
+BITMAP *BUFFER * IMG;
+
+int main();
+{
+	//inscrição
+	
+	allegro_int();
+	install_kepboard();
+	set_color(); 
+	
+	
+}
